@@ -1,7 +1,7 @@
 local Translations = {
     info = {
         open_shop = "[E] Kauppa",
-        sell_chips = "[E] Sell Chips"
+        sell_chips = "[E] Vaihda kasinomerkkejä"
     },
     error = {
         dealer_decline = "Myyjä kieltäytyy näyttämästä sinulle aseita",
